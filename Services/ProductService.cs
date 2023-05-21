@@ -9,7 +9,7 @@ namespace GraphQLProject.Services
         {
             new Product(){Id = 0, Name = "Coffee", Price = 10},
             new Product(){Id = 1, Name = "Tea", Price = 15},
-            new Product(){Id = 3, Name = "Chocolate", Price = 20},
+            new Product(){Id = 2, Name = "Chocolate", Price = 20},
         };
         public Product AddProduct(Product product)
         {
